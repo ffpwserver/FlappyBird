@@ -1,5 +1,8 @@
 # FlappyBird
 a cocos2d-x based flappy bird with "cheat mode :)"
+
+
+
 开发环境:
 Ubuntu 14.04 LTS
 Eclipse 3.8.1 + CDT + ADT
